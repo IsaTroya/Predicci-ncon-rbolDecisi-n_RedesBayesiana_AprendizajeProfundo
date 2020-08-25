@@ -1,4 +1,4 @@
-# Predicci-ncon-rbolDecisi-n_RedesBayesiana_AprendizajeProfundo
+
 # PrediccionCausaSuicidio
 Integrantes:
 
