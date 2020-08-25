@@ -214,7 +214,7 @@ public class FormularioRB extends javax.swing.JFrame {
 
         lblREsultado.setBackground(new java.awt.Color(255, 255, 255));
         lblREsultado.setFont(new java.awt.Font("Tahoma", 3, 18)); // NOI18N
-        lblREsultado.setForeground(new java.awt.Color(255, 0, 0));
+        lblREsultado.setForeground(new java.awt.Color(255, 102, 102));
         lblREsultado.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lblREsultado.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(153, 0, 0)));
 
